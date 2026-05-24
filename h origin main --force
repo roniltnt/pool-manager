@@ -1,0 +1,43 @@
+[33mcommit 5685b141d46d1be36c998818e21b19c5e69f2628[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: e9b7184 7a5412a
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 19:40:46 2026 +0300
+
+    Initial commit: Pool Manager System (Full Stack)
+
+[33mcommit e9b7184b3da985f2d51a49e0a56700970dd15478[m
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 19:40:32 2026 +0300
+
+    Refactor: rename folders
+
+[33mcommit 7a5412a73ff8930ad9f43015b350f8ad26834364[m
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 19:37:33 2026 +0300
+
+    Update frontend run command in README
+
+[33mcommit 9f9a389b4d276a1dfe37ff956841714a2361a997[m
+Merge: 9c20692 ce52cc1
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 19:35:48 2026 +0300
+
+    Merge branch 'main' of https://github.com/roniltnt/pool-manager
+
+[33mcommit 9c20692bf611b6bc201a37cfc63286d824ec7a1e[m
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 19:33:50 2026 +0300
+
+    Refactor: rename folders to client and server, update configurations
+
+[33mcommit ce52cc17ca4964f367afbfd9f22250174d96d7fc[m
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 14:44:18 2026 +0300
+
+    Update backend application entry point in README
+
+[33mcommit 9a9bd2edced1159dbf3c7ee6d6b9ccdf43d20c49[m
+Author: roniltnt <ronilaufer7@gmail.com>
+Date:   Sun May 24 14:39:46 2026 +0300
+
+    Initial commit: Asgard Pool Manager System (Full Stack)

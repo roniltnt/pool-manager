@@ -1,0 +1,14 @@
+# Node (Frontend)
+node_modules/
+build/
+.env
+
+# Java / Spring Boot (Backend)
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+
+# OS Files
+.DS_Store
